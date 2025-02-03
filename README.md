@@ -45,12 +45,18 @@ Gelecek yıllara yönelik tahmin sonuçları görselleştirilir.
 
 Geliştirme Süreci
 ✅ Google Earth Engine API ile Sentinel-2 görüntülerinin işlenmesi
+
 ✅ NDVI hesaplanarak yeşil alan tespiti
+
 ✅ GEE'den elde edilen verilerle veri setinin oluşturulması
+
 ✅ XGBoost algoritması ile tahmin modeli eğitilmesi
+
 ✅ Flask tabanlı web arayüzünün oluşturulması
+
 ✅ Veri görselleştirme ve analizlerin yapılması
 
 📩 İletişim
+@kadircetin.inu@gmail.com @turelhaticezehra@gmail.com
 
 
