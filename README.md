@@ -44,6 +44,7 @@ Gelecek yıllara yönelik tahmin sonuçları görselleştirilir.
 ![Ekran görüntüsü 2025-02-03 134108](https://github.com/user-attachments/assets/1c12125a-2be6-4022-bdd6-d265d49ff69d)
 
 Geliştirme Süreci
+
 ✅ Google Earth Engine API ile Sentinel-2 görüntülerinin işlenmesi
 
 ✅ NDVI hesaplanarak yeşil alan tespiti
