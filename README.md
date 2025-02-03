@@ -58,6 +58,7 @@ Geliştirme Süreci
 ✅ Veri görselleştirme ve analizlerin yapılması
 
 📩 İletişim
+
 @kadircetin.inu@gmail.com @turelhaticezehra@gmail.com
 
 
