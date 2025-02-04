@@ -30,12 +30,15 @@ Matplotlib, Seaborn	Görselleştirme
 Google Earth Engine (GEE) üzerinden Sentinel-2 uydu görüntüleri alınır.
 NDVI (Normalized Difference Vegetation Index) hesaplanarak yeşil alanlar belirlenir.
 İlgili şehir ve ilçeye ait yeşil alan verileri 2016-2024 yılları arasında toplanır.
+
 2️⃣ Yeşil Alan Değişiminin Hesaplanması
 Yıllara göre ortalama NDVI değerleri ve toplam yeşil alan hektar cinsinden hesaplanır.
 Değişimler şehir ve ilçe bazında görselleştirilir.
+
 3️⃣ Makine Öğrenmesi ile Gelecek Tahmini
 XGBoost algoritması kullanılarak gelecek yıllardaki yeşil alan değişimi tahmin edilir.
 Model, geçmiş verilerden öğrenerek olası kayıp veya kazanımları öngörür.
+
 4️⃣ Web Arayüzü ile Kullanıcı Etkileşimi
 Flask tabanlı bir web arayüzü geliştirilmiştir.
 Kullanıcılar şehir ve ilçeyi seçerek değişim analizini görebilir.
